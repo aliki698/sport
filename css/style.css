@@ -1,0 +1,22 @@
+body{
+    background-color: thistle;
+}
+#ip{
+    width: 20%;
+    height: 150px;
+    margin: 0px auto;
+   object-fit: cover;
+}
+video{
+    width: 350px;
+    border-radius: 15%;
+}
+table,th,td{
+    border-style: double;
+}
+table{
+    background-color: thistle;
+}
+td{
+    background-color: rgb(142, 218, 218);
+}
